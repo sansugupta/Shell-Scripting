@@ -16,7 +16,8 @@
 # do 
 #     echo $i
 # done
-for i in $(ls *.png)
+for i in $(ls *.txt)
 do
     echo "$1"
 done
+
